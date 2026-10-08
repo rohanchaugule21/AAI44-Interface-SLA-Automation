@@ -25,6 +25,7 @@ Use the generated file for further processing
 ```
 
 ### Automated Process
+```
 Outlook
    ↓
 Power Automate
@@ -40,6 +41,7 @@ Python
 Structured Excel
    ↓
 Processed CSV
+```
 
 ## 2. Objective 
 The primary objectives of the automation are to:
