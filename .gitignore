@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# AAI-44 generated files
+*.csv
+*.xlsx
+
+# Local runtime folders
+AAI44Input/
+AAI44Output/
+AAI44Processed/
+
+# Local configuration
+.env
+*.local
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
