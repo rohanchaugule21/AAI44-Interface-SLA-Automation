@@ -115,7 +115,7 @@ The automation does not require the user to manually download the attachment.
 ## 6. Output
 The automation generates an Excel file containing the structured data:
 ```
-Column	                                              Description
+Column	                                                 Description
 Airport	                                                 Airport / Site identified from the report path
 Timestamp	                                         Timestamp associated with the utilization record
 Current Utilization	                                 Current utilization value
